@@ -1,5 +1,5 @@
 # daybuildr
-A small android project developed over 6 weeks for a Software Project Management paper.
+A small android project developed over 4 weeks for a Software Project Management paper.
 
 It takes some user preferences for activities they would like to complete around their schedule,
 and generates events based off those preferences. The general idea was to eventually integrate some
